@@ -1,0 +1,326 @@
+{
+      "GUID": "0007d5",
+      "Name": "Custom_Tile",
+      "Transform": {
+        "posX": 24.044445,
+        "posY": 0.981499434,
+        "posZ": 20.8991222,
+        "rotX": 2.07367261E-08,
+        "rotY": 179.957123,
+        "rotZ": -1.68859117E-07,
+        "scaleX": 2.61136246,
+        "scaleY": 1.0,
+        "scaleZ": 2.61136246
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/2483262823513316880/A8A389E764629A2C9C6813EFEDABED1EB886778D/",
+        "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/2483262823513317621/C2C852F9C1003B548B7DB1F15981BB5023B96863/",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 3,
+          "Thickness": 0.2,
+          "Stackable": false,
+          "Stretch": true
+        }
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "AttachedSnapPoints": [
+        {
+          "Position": {
+            "x": 0.455507427,
+            "y": 0.2000003,
+            "z": 0.949225366
+          }
+        },
+        {
+          "Position": {
+            "x": 0.273243129,
+            "y": 0.200000241,
+            "z": 0.9484893
+          }
+        },
+        {
+          "Position": {
+            "x": 0.08703118,
+            "y": 0.2000003,
+            "z": 0.9437286
+          }
+        },
+        {
+          "Position": {
+            "x": -0.08721876,
+            "y": 0.200000256,
+            "z": 0.9510372
+          }
+        },
+        {
+          "Position": {
+            "x": -0.2815102,
+            "y": 0.2000003,
+            "z": 0.9542542
+          }
+        },
+        {
+          "Position": {
+            "x": -0.455338776,
+            "y": 0.200000316,
+            "z": 0.961548567
+          }
+        }
+      ]
+    },
+    {
+      "GUID": "36fca4",
+      "Name": "Custom_Tile",
+      "Transform": {
+        "posX": 3.836996,
+        "posY": -5.96046448E-08,
+        "posZ": -0.1685543,
+        "rotX": 7.373347E-07,
+        "rotY": 179.9963,
+        "rotZ": 3.79335177E-07,
+        "scaleX": 2.67430973,
+        "scaleY": 1.0,
+        "scaleZ": 2.67430973
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/2483262823513282772/B86A5031C551E0BD959416C1B0D06F01149D0921/",
+        "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/2483262823513277525/279263AADBBEAE810D5A69AC59F49F1356F5523E/",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 3,
+          "Thickness": 0.2,
+          "Stackable": false,
+          "Stretch": true
+        }
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "AttachedSnapPoints": [
+        {
+          "Position": {
+            "x": 0.285825461,
+            "y": 0.200000271,
+            "z": -0.336829066
+          }
+        },
+        {
+          "Position": {
+            "x": 0.2909895,
+            "y": 0.200000271,
+            "z": 0.0481461547
+          }
+        },
+        {
+          "Position": {
+            "x": -0.022741124,
+            "y": 0.200000286,
+            "z": 0.907578051
+          }
+        },
+        {
+          "Position": {
+            "x": -0.112823308,
+            "y": 0.200000286,
+            "z": 0.9076095
+          }
+        },
+        {
+          "Position": {
+            "x": -0.30976817,
+            "y": 0.2000003,
+            "z": 0.914321363
+          }
+        },
+        {
+          "Position": {
+            "x": -0.219716638,
+            "y": 0.2000003,
+            "z": 0.9142974
+          }
+        },
+        {
+          "Position": {
+            "x": -0.413131058,
+            "y": 0.2000003,
+            "z": 0.911028564
+          }
+        }
+      ]
+    },
+    {
+      "GUID": "ed6845",
+      "Name": "CardCustom",
+      "Transform": {
+        "posX": 0.8747864,
+        "posY": 0.0136044025,
+        "posZ": -5.0108633,
+        "rotX": 4.052878E-08,
+        "rotY": 180.0,
+        "rotZ": -1.60600848E-08,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 0.713235259,
+        "g": 0.713235259,
+        "b": 0.713235259
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": true,
+      "Hands": true,
+      "CardID": 1600,
+      "SidewaysCard": true,
+      "CustomDeck": {
+        "16": {
+          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2483262823513234857/D9663E2C449E197FEA099429EDF9C780D56D7B7D/",
+          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2483263458426883353/BBBDE9474D8FA0245132167169532293982A9791/",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        }
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": ""
+    },
+    {
+      "GUID": "eb53c7",
+      "Name": "Custom_Tile",
+      "Transform": {
+        "posX": 4.551054,
+        "posY": -4.172325E-07,
+        "posZ": -4.88270569,
+        "rotX": -1.73148152E-07,
+        "rotY": 180.000046,
+        "rotZ": 5.03440049E-07,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/2483262823513391135/7962D11583969CC04CC943353C94A59BE78A21AD/",
+        "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/2483262823513391623/7DF603918AAAA771B870912DB4BB515E1387F75F/",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 0,
+          "Thickness": 0.10999985,
+          "Stackable": false,
+          "Stretch": true
+        }
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": ""
+    }
+  ]
+}
